@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+
+# SvelteKit build output
+.svelte-kit/
+build/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Vite cache
+.vite/
+
+# Test coverage
+coverage/
